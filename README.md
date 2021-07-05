@@ -4,7 +4,7 @@
 
 - Receita de Strogonoff
 
-- Frango xadrez
+- Frango xadrez :chicken:
 
   
 
